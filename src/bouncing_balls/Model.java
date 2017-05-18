@@ -49,7 +49,8 @@ class Model {
             Vector d = new Vector(balls[0]);
             Vector para = Vector.scale(n,Vector.dot(Vector.scale(d,2),n));
             Vector r = d.clone();
-            r.sub(para);*/
+            r.sub(para);
+            */
 
 
             // This is to decide the new angles of the balls.
